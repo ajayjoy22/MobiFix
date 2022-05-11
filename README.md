@@ -19,7 +19,7 @@ NOTE : This application may not work in some android device because of some secu
 
 SCREENSHOTS : 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/38532316/84913169-da96e200-b0d7-11ea-9577-8b505608eba7.png" width="300" height="500"></p>
+<p align="center"><img src="https://github.com/ajayjoy22/MobiFix/blob/master/splashscreen.png" width="300" height="500"></p>
 
 login page                            |   registration page
 :-----------------------------------: | :----------------------------------:
