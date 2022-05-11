@@ -23,47 +23,13 @@ SCREENSHOTS :
 
 login page                            |   registration page
 :-----------------------------------: | :----------------------------------:
-<img src="https://user-images.githubusercontent.com/38532316/84911871-660f7380-b0d6-11ea-9946-e4f3f9deb534.png" width="300" height="500"> | <img src="https://user-images.githubusercontent.com/38532316/84913154-d8348800-b0d7-11ea-8753-82009a23dc27.png" width="300" height="500"> 
+<img src="https://github.com/ajayjoy22/MobiFix/blob/master/login.png" width="300" height="500"> | <img src="https://github.com/ajayjoy22/MobiFix/blob/master/registration%20(1).PNG" width="300" height="500"> 
 
-Home page                            |   Navigation page
+Home page                            |   Lock page
 :-----------------------------------: | :----------------------------------:
-<img src="https://user-images.githubusercontent.com/38532316/84913191-e1bdf000-b0d7-11ea-8ba7-fc98e877064b.png" width="300" height="500"> | <img src="https://user-images.githubusercontent.com/38532316/84915811-e932c880-b0da-11ea-8007-a50d56952511.png" width="300" height="500"> 
+<img src="https://github.com/ajayjoy22/MobiFix/blob/master/home.jpeg" width="300" height="500"> | <img src="https://github.com/ajayjoy22/MobiFix/blob/master/pin.png" width="300" height="500"> 
 
 
 <br>
 <br>
 <br>
-
-
-HOW TO USE :-
-
-1) Firstly you need to check that my helper is working on your phone or not. For that send the message to your phone number like that :
-
-<img src="https://user-images.githubusercontent.com/38532316/84916430-b6d59b00-b0db-11ea-9914-19068e6b443b.jpg" width="500" height="350"> 
-
-If you get reply then it is working fine.
-
-<br>
-<br>
-<br>
-
-2) For getting contact number from your phone contacts, send sms in a given format :
-      
-      myhelper &lt;your login password> getcontact &lt;contact name>
-  
-  for example
-
-<img src="https://user-images.githubusercontent.com/38532316/84917577-2304ce80-b0dd-11ea-8b49-20eb01ac4425.png" width="500" height="200"> 
-
-<br>
-<br>
-<br>
-
-You can take help like this :
-
-
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/38532316/84918561-614ebd80-b0de-11ea-8240-e0ac274d14e1.jpg" width="500" height="700">
-
