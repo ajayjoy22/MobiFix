@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_blockedContacts"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Blocked contacts" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="History"/>
+    </group>
+
+    <item android:title="Tools">
+        <menu>
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Setting"/>
+            <item
+                android:id="@+id/nav_setup_permission"
+                android:icon="@drawable/ic_check_circle_black_24dp"
+                android:title="Grant permission"/>
+            <item
+                android:id="@+id/nav_uninstall"
+                android:icon="@drawable/ic_cancel_black_24dp"
+                android:title="Uninstall"/>
+        </menu>
+    </item>
+
+</menu>
